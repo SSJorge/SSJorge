@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssjorge&show_icons=true&theme=radical)
 
-![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fssjorge%2F&up_color=blue&down_message=IG&style=plastic)
+[![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fssjorge%2F&up_color=blue&down_message=IG&style=plastic)](https://www.instagram.com/ssjorge/)
 
 ## Soy estudiante, Profesor y desarrollador de Software
 
