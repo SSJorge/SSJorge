@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Jorge  [SSJorge][Facebook] 👋
 
 ## Mis estadísticas son: 
 
@@ -9,8 +9,6 @@
 [![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fssjorge%2F&up_color=blue&down_message=IG&style=plastic)](https://www.instagram.com/ssjorge/)
 
 Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/250px-Android_robot_%282014-2019%29.svg.png" />][Android]!
-
-Me gusta android 😺 <a href="https://www.android.com/intl/es_es/"><img align="left" alt="Androiddd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" /></a>
 
 [Android]: https://www.android.com/intl/es_es/
 
@@ -136,8 +134,8 @@ __Cursos:__
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
+[instagram]: https://www.instagram.com/ssjorge/
+[Facebook]: https://www.facebook.com/jorgeg.moreno.77?locale=es_LA
 [linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
