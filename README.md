@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jorge 👋 - [SSJorge][Instagram] 👋
+### ¡Hola a todos! Mi nombre es Jorge 👋 - [SSJorge][instagram] 👋
 
 ## Mis estadísticas son: 
 
@@ -8,20 +8,17 @@
 
 [![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fssjorge%2F&up_color=blue&down_message=IG&style=plastic)](https://www.instagram.com/ssjorge/)
 
-Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/250px-Android_robot_%282014-2019%29.svg.png" />][Android]!
-
-[Android]: https://www.android.com/intl/es_es/
-
+Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/250px-Android_robot_%282014-2019%29.svg.png" />][Android]
 
 
 ### Contactame!:
 
 <br />
-[<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
+
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Emblem-Instagram-500x500.jpg" />][Instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Emblem-Instagram-500x500.jpg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
+
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
@@ -121,11 +118,11 @@ __Cursos:__
 
 
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
+[Android]: https://www.android.com/intl/es_es/
 [website]: https://capdesis.com/
-[youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[Instagram]: https://www.instagram.com/ssjorge/
+[instagram]: https://www.instagram.com/ssjorge/
 [Facebook]: https://www.facebook.com/jorgeg.moreno.77?locale=es_LA
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
+[linkedin]: https://www.linkedin.com/in/jorge-moreno-torres/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
