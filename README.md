@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jorge  [SSJorge][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Jorge 👋 - [SSJorge][Instagram] 👋
 
 ## Mis estadísticas son: 
 
@@ -14,24 +14,13 @@ Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https
 
 
 
-
-
-## Soy estudiante, Profesor y desarrollador de Software
-
-- Estos son algunos de mis cursos:
-- 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
-- ⚡ Busco colaborar con otros creadores de contenido
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
-
 ### Contactame!:
 
 <br />
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Emblem-Instagram-500x500.jpg" />][Instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
 
@@ -134,7 +123,7 @@ __Cursos:__
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/ssjorge/
+[Instagram]: https://www.instagram.com/ssjorge/
 [Facebook]: https://www.facebook.com/jorgeg.moreno.77?locale=es_LA
 [linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
