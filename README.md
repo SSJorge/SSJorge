@@ -1,8 +1,8 @@
 ### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
 
-##Mis estadísticas son: 
+## Mis estadísticas son: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjorge)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjorge&show_icons=true&theme=radical)
 
 
 ## Soy estudiante, Profesor y desarrollador de Software
