@@ -2,7 +2,7 @@
 
 ##Mis estadísticas son: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjorge)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjorge)
 
 
 ## Soy estudiante, Profesor y desarrollador de Software
