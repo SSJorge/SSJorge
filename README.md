@@ -8,7 +8,7 @@
 
 [![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fssjorge%2F&up_color=blue&down_message=IG&style=plastic)](https://www.instagram.com/ssjorge/)
 
-Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />][Android]!
+Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apacheant.svg" />][Android]!
 
 Me gusta android 😺 <a href="https://www.android.com/intl/es_es/"><img align="left" alt="Androiddd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" /></a>
 
