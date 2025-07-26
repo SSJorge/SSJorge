@@ -26,13 +26,13 @@ Me gusta android 😺 [<img align="left" alt="Androiddd" width="22px" src="https
 __Generales:__ 
 
 <br />
+
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+
 <br />
 
 ---
@@ -40,41 +40,12 @@ __Desarrollo Móvil:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/swift/swift-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kotlin/kotlin-original.svg" width="30" height="30" />
 <br />
 
 ---
-__Diseño:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" width="30" height="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg" width="30" height="30" />
-<br />
 
----
-__Cursos:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<br />
 
----
-### 📺 Mis aplicaciones
-
-[<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Calculo** *(Gratis)*
-<br />
-<br />
-[<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
-**Calculadora de Fisica** *(Gratis)*
-<br />
-<br />
-[<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Calculo Pro** *(De Pago)*
-<br />
-<br />
 
 ## 🔎 Mis estadisticas:
 <details>
@@ -88,19 +59,6 @@ __Cursos:__
 
 </details>
 
-## 📺 Últimos vídeos de YouTube
-<details>
-    <summary>📺 Ver</summary>
-    
-<!-- YOUTUBE:START -->
-- [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
-- [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
-- [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
-- [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
-- [Que son las ramas y como funcionan en Git / @CHOCHY](https://www.youtube.com/watch?v=0RxbgT-szXc)
-<!-- YOUTUBE:END -->
-    
-</details>
 
 ## ❗️ Actividad Reciente
 <details>
