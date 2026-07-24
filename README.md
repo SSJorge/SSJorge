@@ -7,6 +7,9 @@
 Desarrollo aplicaciones móviles y soluciones full-stack, con foco en crear
 productos útiles, mantenibles y preparados para crecer.
 
+Creador de [TruequeGol](https://truequegol.cl), una aplicación para encontrar
+matches en tu zona e intercambiar láminas de fútbol.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-moreno-torres/)
 [![GitHub](https://img.shields.io/badge/GitHub-SSJorge-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSJorge)
 [![Instagram](https://img.shields.io/badge/Instagram-SSJorge-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ssjorge/)
@@ -21,7 +24,8 @@ productos útiles, mantenibles y preparados para crecer.
 - 📱 Enfocado principalmente en el desarrollo de aplicaciones móviles con Flutter y Dart.
 - 🧩 Trabajo con APIs REST, gestión de estado, persistencia local, autenticación y bases de datos.
 - 🌐 También desarrollo soluciones full-stack utilizando React, Go y PostgreSQL.
-- 🚀 Actualmente estoy construyendo mi portafolio para trabajar en proyectos móviles freelance.
+- 🚀 Creador de [TruequeGol](https://truequegol.cl), una aplicación web para encontrar personas compatibles e intercambiar láminas de fútbol.
+- 💼 Actualmente estoy construyendo mi portafolio para trabajar en proyectos móviles freelance.
 - 🇨🇱 Desarrollador ubicado en Chile.
 
 ---
@@ -61,6 +65,37 @@ productos útiles, mantenibles y preparados para crecer.
 ---
 
 ## Proyectos destacados
+
+### ⚽ TruequeGol
+
+Aplicación web progresiva para ayudar a coleccionistas de álbumes de fútbol a
+encontrar personas compatibles con quienes intercambiar sus láminas.
+
+Los usuarios pueden registrar las láminas que les faltan, las que ya obtuvieron
+y las que tienen repetidas. La aplicación compara automáticamente sus
+colecciones y permite encontrar posibles intercambios con personas de la misma
+comuna.
+
+Incluye:
+
+- Registro e inicio de sesión de usuarios.
+- Gestión del estado de cada lámina: faltante, obtenida o repetida.
+- Cálculo automático de compatibilidad entre colecciones.
+- Búsqueda de usuarios mediante nombre de usuario.
+- Filtros geográficos por comuna.
+- Sistema de likes y matches entre usuarios.
+- Contacto habilitado después de un match mutuo.
+- Importación y exportación de listas de láminas.
+- Publicaciones para vender, buscar, intercambiar o anunciar cambiatones.
+- Aplicación instalable como PWA desde el navegador.
+- Diseño adaptable para computadores y dispositivos móviles.
+
+**Tecnologías:** Flutter, Dart, Firebase Authentication, Cloud Firestore y Firebase Hosting.
+
+[![Visitar TruequeGol](https://img.shields.io/badge/Visitar_truequegol.cl-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://truequegol.cl)
+[![Repositorio](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSJorge/laminas_swap)
+
+---
 
 ### 🎬 Cinemapedia
 
