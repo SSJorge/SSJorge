@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Jorge 👋
+# Hola, soy SSJorge 👋
 
 ### Estudiante de Ingeniería Civil Informática | Desarrollador Flutter
 
